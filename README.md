@@ -64,16 +64,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAKIB6348&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKIB6348&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib6348&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib6348&theme=dark&hide_border=false&layout=compact&langs_count=8&exclude_repo=repo1,repo2" alt="Top Languages" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RAKIB6348&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rakib6348&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKIB6348&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib6348&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
