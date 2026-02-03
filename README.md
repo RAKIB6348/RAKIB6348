@@ -1,20 +1,9 @@
-<h1 align="center">Hi 👋, I'm MD Rakib Hasan</h1>
-<h3 align="center">🚀 Odoo & Django Developer | Building Modern Web Apps from Bangladesh</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakib6348&label=Profile%20views&color=0e75b6&style=flat" alt="rakib6348" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rakib6348&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="rakib6348" />
-  </a>
-</p>
+# Hi 👋, I'm MD Rakib Hasan
+🚀 Odoo & Django Developer | Building Modern Web Apps from Bangladesh
 
 ---
 
 ## 🌱 About Me
-
 - 💼 Passionate **Odoo & Django Developer** building scalable web applications
 - 🌱 Always learning new frameworks and exploring modern web technologies
 - 🔭 Currently diving deep into **Django, Odoo, React, Vue, and GSAP**
@@ -26,15 +15,10 @@
 ## 📫 How to Reach Me
 
 <p align="left">
-  <a href="mailto:shahidulhuda0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/RAKIB6348" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<a href="https://linkedin.com/in/md-rakib-hasan-530166299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rakib-hasan" height="30" width="40" /></a>
+<a href="https://fb.com/rakib.hasan.7739814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakib.hasan" height="30" width="40" /></a>
+<a href="https://instagram.com/rakib_hasan_shimul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakib_hasan_shimul" height="30" width="40" /></a>
+<a href="mailto:rakibhasan6348@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
 </p>
 
 ---
@@ -63,57 +47,62 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib6348&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib6348&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" width="48%"/>
-</p>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=RAKIB6348&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rakib6348&theme=dark&hide_border=false" alt="GitHub Streak" width="60%"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RAKIB6348&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib6348&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAKIB6348&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Dynamic Contribution Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakib6348&label=Total%20Contributions&color=brightgreen&style=for-the-badge" alt="Total Contributions" />
-</p>
+### 📈 Contribution Graph
+[![Rakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAKIB6348&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true&hide_border=true&custom_title=MD%20Rakib%20Hasan's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## 👨‍💻 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/RAKIB6348/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAKIB6348&repo=project-1&theme=dark" alt="Project 1" />
-  </a>
-  <a href="https://github.com/RAKIB6348/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAKIB6348&repo=project-2&theme=dark" alt="Project 2" />
-  </a>
-</p>
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RAKIB6348&repo=your-repo-name&theme=tokyonight)](https://github.com/RAKIB6348/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RAKIB6348&repo=another-repo&theme=tokyonight)](https://github.com/RAKIB6348/another-repo)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAKIB6348&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=RAKIB6348&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RAKIB6348&icon=0&color=0" alt="Visit Count" />
-</p>
+## 📈 Profile Views
 
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=RAKIB6348&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/RAKIB6348">RAKIB6348</a> | Made with ❤️
-</p>
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ From [RAKIB6348](https://github.com/RAKIB6348) | Made with ❤️
+
+</div>
