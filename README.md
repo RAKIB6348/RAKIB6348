@@ -6,7 +6,7 @@
 ## 🌱 About Me
 - 💼 Passionate **Odoo & Django Developer** building scalable web applications
 - 🌱 Always learning new frameworks and exploring modern web technologies
-- 🔭 Currently diving deep into **Django, Odoo, React, Vue, and GSAP**
+- 🔭 Currently diving deep into **Django, Odoo**
 - 💬 Ask me about **Python, Django, Odoo ERP, PostgreSQL**
 - ⚡ Fun fact: **I think I am funny 😄**
 
