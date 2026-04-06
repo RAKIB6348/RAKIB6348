@@ -90,20 +90,30 @@
     </td>
   </tr>
 </table>
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=RAKIB6348&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RAKIB6348&theme=tokyonight&hide_border=true)
+<h2 align="left">My GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAKIB6348&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 📈 Contribution Graph
-[![Rakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAKIB6348&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&title_color=70a5fd&area=true&hide_border=true&custom_title=MD%20Rakib%20Hasan's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=RAKIB6348&theme=tokyonight&hide_border=false"
+        width="98%"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=RAKIB6348&bg_color=1a1b27&color=70a5fd&line=38bdf8&point=ffffff&area=true&hide_border=false&title_color=38bdf8&custom_title=MD%20Rakib%20Hasan's%20Contribution%20Graph"
+        width="98%"
+        alt="Contribution Graph"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
