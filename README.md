@@ -1,16 +1,20 @@
-# Hi 👋, I'm MD Rakib Hasan
-🚀 Odoo & Django Developer | Building Modern Web Apps from Bangladesh
+<h1 align="center">Hi 👋, I'm MD Rakib Hasan</h1>
+<p align="center">
+  🚀 <strong>Odoo &amp; Django Developer</strong> | Building Scalable ERP &amp; Web Solutions from Bangladesh
+</p>
 
----
+<hr>
 
-## 🌱 About Me
-- 💼 Passionate **Odoo & Django Developer** building scalable web applications
-- 🌱 Always learning new frameworks and exploring modern web technologies
-- 🔭 Currently diving deep into **Django, Odoo**
-- 💬 Ask me about **Python, Django, Odoo ERP, PostgreSQL**
-- ⚡ Fun fact: **I think I am funny 😄**
+<h2>🌱 About Me</h2>
+<ul>
+  <li>💼 Results-driven <strong>Odoo &amp; Django Developer</strong> with hands-on experience in building scalable ERP and web applications</li>
+  <li>🧠 Strong focus on <strong>business process automation</strong>, system integration, and solving real-world business problems</li>
+  <li>🔭 Currently working on advanced <strong>Odoo customization, APIs, and Django-based systems</strong></li>
+  <li>💬 Skilled in <strong>Python, Odoo ERP, Django, PostgreSQL, REST APIs</strong></li>
+  <li>⚡ Fun fact: I enjoy turning complex business requirements into simple, effective solutions 😄</li>
+</ul>
 
----
+<hr>
 
 ## 📫 How to Reach Me
 
