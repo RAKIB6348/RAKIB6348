@@ -13,7 +13,7 @@
   <a href="https://github.com/RAKIB6348">
     <img src="https://img.shields.io/badge/GitHub-RAKIB6348-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:rakibhasan6348@gmail.com">
+  <a href="mailto:shahidulhuda0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/md-rakib-hasan-530166299" target="_blank">
