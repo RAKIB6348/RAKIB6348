@@ -41,64 +41,41 @@
 ## 💻 Tech Stack
 
 <table align="center">
-  <tr>
-    <td align="center"><b>Programming Languages</b></td>
-    <td align="center"><b>API & Backend Frameworks</b></td>
-    <td align="center"><b>Databases</b></td>
-    <td align="center"><b>Frontend</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-0A3D91?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <!-- <img src="https://img.shields.io/badge/C%20Programming-6C7EA8?style=for-the-badge&logo=c&logoColor=white" /><br/> -->
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Django-0B3D20?style=for-the-badge&logo=django&logoColor=white" /><br/>
-      <!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><br/> -->
-      <img src="https://img.shields.io/badge/Django%20REST%20API-CB1010?style=for-the-badge&logo=django&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-0C6A8A?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/SQLite-083C5A?style=for-the-badge&logo=sqlite&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-F5F5F5?style=for-the-badge&logo=postgresql&logoColor=336791" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <!-- <td align="center"><b>Cloud / VPS / Hosting</b></td> -->
-    <td align="center"><b>Tools & Version Control</b></td>
-    <!-- <td align="center"><b>Deployment / Server</b></td> -->
-    <!-- <td align="center"><b>Other Tools</b></td> -->
-  </tr>
-  <tr>
-    <!-- <td align="center">
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/VPS%20Server-000000?style=for-the-badge&logo=linux&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/AWS%20Cloud-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    </td> -->
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-    <!-- <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Microsoft%20Office-F35325?style=for-the-badge&logo=microsoftoffice&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /><br/>
-      <img src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
-    </td> -->
-  </tr>
-</table>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td align="center"><b>Backend & Frameworks</b></td>
+      <td align="center"><b>Databases</b></td>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
 
 
 <h2 align="left">My GitHub Stats</h2>
