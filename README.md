@@ -6,13 +6,22 @@
 <hr>
 
 <h2>🌱 About Me</h2>
-<ul>
+<!-- <ul>
   <li>💼 Results-driven <strong>Odoo &amp; Django Developer</strong> with hands-on experience in building scalable ERP and web applications</li>
   <li>🧠 Strong focus on <strong>business process automation</strong>, system integration, and solving real-world business problems</li>
   <li>🔭 Currently working on advanced <strong>Odoo customization, APIs, and Django-based systems</strong></li>
   <li>💬 Skilled in <strong>Python, Odoo ERP, Django, PostgreSQL, REST APIs</strong></li>
   <li>⚡ Fun fact: I enjoy turning complex business requirements into simple, effective solutions 😄</li>
-</ul>
+</ul> -->
+
+<ul>
+    <li>💼 I am an <strong>Odoo Developer</strong> with knowledge of <strong>Django</strong> and a growing interest in building web applications and ERP solutions</li>
+    <li>🧠 I enjoy learning new technologies and improving my skills in <strong>Python, Odoo, Django, and PostgreSQL</strong></li>
+    <li>🔭 Currently focused on <strong>Odoo customization, APIs, and expanding my Django knowledge</strong></li>
+    <li>💬 Familiar with <strong>Python, Odoo ERP, Django basics, REST APIs, and database-driven applications</strong></li>
+    <li>⚡ Fun fact: I like turning ideas and business requirements into simple and practical solutions</li>
+  </ul>
+
 
 <hr>
 
