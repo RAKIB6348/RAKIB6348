@@ -170,9 +170,11 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /><br />
-      <img src="https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PgAdmin" />
-    </td>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /><br />
+    <img src="https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PgAdmin" /><br />
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" /><br />
+    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
+</td>
   </tr>
 </table>
 
