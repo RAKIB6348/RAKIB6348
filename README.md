@@ -23,6 +23,45 @@
 
 <hr />
 
+<!-- ============= ABOUT ME SECTION ============= -->
+<div align="center">
+
+## 🌟 About Me
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+
+</td>
+<td width="50%">
+
+```python
+class RakibHasan:
+    def __init__(self):
+        self.name = "Rakib Hasan"
+        self.role = "Odoo Developer"
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+        self.experience = "1+ years"
+        self.currently_learning = "Django 🐍"
+        self.learning_goal = "Full-Stack Python Developer"
+        self.daily_commit = "1+ hour Django practice"
+        self.coffee_consumed = "∞ cups ☕"
+    
+    def say_hi(self):
+        print("Hi! 👋 Learning Django & Odoo together!")
+        print("Documentation is my best friend 📚")
+```
+
+</td>
+</tr>
+</table>
+
+<hr />
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
