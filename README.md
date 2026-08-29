@@ -45,7 +45,7 @@ class RakibHasan:
         self.name = "Rakib Hasan"
         self.role = "Odoo Developer"
         self.location = "Dhaka, Bangladesh 🇧🇩"
-        self.experience = "1+ years"
+        self.experience = "1.5+ years"
         self.currently_learning = "Django 🐍"
         self.learning_goal = "Full-Stack Python Developer"
         self.daily_commit = "1+ hour Django practice"
